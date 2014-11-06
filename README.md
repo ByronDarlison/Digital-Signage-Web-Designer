@@ -1,4 +1,4 @@
-# Project Name ![Build Status](http://devtools1.risevision.com:8080/job/Storage-Client-BranchPush/badge/icon)
+# Digital Signage Web Designer
 
 ## Introduction
 
